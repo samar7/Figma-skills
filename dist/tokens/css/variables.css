@@ -1,0 +1,65 @@
+/**
+ * Do not edit directly, this file was auto-generated.
+ */
+
+:root {
+  --color-md-primary: #6750a4; /** Material Design primary brand color. */
+  --color-md-on-primary: #ffffff; /** Content placed on the primary color. */
+  --color-md-primary-container: #eaddff; /** High-emphasis primary container. */
+  --color-md-on-primary-container: #21005d; /** Content placed on the primary container. */
+  --color-md-secondary: #625b71;
+  --color-md-on-secondary: #ffffff;
+  --color-md-secondary-container: #e8def8;
+  --color-md-on-secondary-container: #1d192b;
+  --color-md-tertiary: #7d5260;
+  --color-md-on-tertiary: #ffffff;
+  --color-md-error: #b3261e;
+  --color-md-on-error: #ffffff;
+  --color-md-background: #fffbfe;
+  --color-md-on-background: #1c1b1f;
+  --color-md-surface: #fffbfe;
+  --color-md-on-surface: #1c1b1f;
+  --color-md-surface-variant: #e7e0ec;
+  --color-md-on-surface-variant: #49454f;
+  --color-md-outline: #79747e;
+  --color-md-outline-variant: #cac4d0;
+  --color-md-inverse-surface: #313033;
+  --color-md-inverse-on-surface: #f4eff4;
+  --color-md-inverse-primary: #d0bcff;
+  --shape-md-corner-none: 0;
+  --shape-md-corner-extra-small: 4px;
+  --shape-md-corner-small: 8px;
+  --shape-md-corner-medium: 12px;
+  --shape-md-corner-large: 16px;
+  --shape-md-corner-extra-large: 28px;
+  --shape-md-corner-full: 9999px;
+  --spacing-md-0: 0;
+  --spacing-md-1: 4px;
+  --spacing-md-2: 8px;
+  --spacing-md-3: 12px;
+  --spacing-md-4: 16px;
+  --spacing-md-5: 24px;
+  --spacing-md-6: 32px;
+  --spacing-md-7: 40px;
+  --spacing-md-8: 48px;
+  --type-md-font-family-plain: Roboto, Arial, sans-serif;
+  --type-md-body-large-font-size: 16px;
+  --type-md-body-large-line-height: 24px;
+  --type-md-body-large-font-weight: 400;
+  --type-md-body-medium-font-size: 14px;
+  --type-md-body-medium-line-height: 20px;
+  --type-md-body-medium-font-weight: 400;
+  --type-md-label-large-font-size: 14px;
+  --type-md-label-large-line-height: 20px;
+  --type-md-label-large-font-weight: 500;
+  --type-md-title-large-font-size: 22px;
+  --type-md-title-large-line-height: 28px;
+  --type-md-title-large-font-weight: 400;
+  --type-md-headline-small-font-size: 24px;
+  --type-md-headline-small-line-height: 32px;
+  --type-md-headline-small-font-weight: 400;
+  --elevation-md-level-0: none;
+  --elevation-md-level-1: 0px 1px 3px rgba(0, 0, 0, 0.2);
+  --elevation-md-level-2: 0px 2px 6px rgba(0, 0, 0, 0.18);
+  --elevation-md-level-3: 0px 4px 8px rgba(0, 0, 0, 0.16);
+}

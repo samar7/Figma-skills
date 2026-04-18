@@ -1,0 +1,36 @@
+{
+  "name": "figma-skills",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/material-theme.mjs",
+  "scripts": {
+    "tokens:build": "style-dictionary build --config style-dictionary.config.mjs",
+    "tokens:clean": "style-dictionary clean --config style-dictionary.config.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samar7/Figma-skills.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/samar7/Figma-skills/issues"
+  },
+  "homepage": "https://github.com/samar7/Figma-skills#readme",
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@fontsource/roboto": "^5.2.10",
+    "@material/material-color-utilities": "^0.4.0",
+    "@mui/icons-material": "^9.0.0",
+    "@mui/material": "^9.0.0",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5"
+  },
+  "devDependencies": {
+    "@tokens-studio/sd-transforms": "^2.0.3",
+    "style-dictionary": "^5.4.0"
+  }
+}
